@@ -1847,6 +1847,3 @@ declare class Hls {
      */
     off(event: string, callback: (...params: any[]) => void): void;
 }
-
-export as namespace Hls;
-export = Hls;
